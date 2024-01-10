@@ -1,0 +1,53 @@
+{
+  "users": {
+    "create_user_button_text": "Create user",
+    "table_column_name_text": "Name",
+    "table_column_email_text": "Email",
+    "table_column_action_text": "Action",
+    "table_action_update_button": "Update",
+    "table_action_see_button": "See",
+    "table_action_delete_button": "Delete",
+    "modal_create": {
+      "title": "Create User",
+      "label_name": "Name",
+      "placeholder_name": "Name of the user",
+      "label_email": "Email",
+      "placeholder_email": "User Email",
+      "label_password": "Password",
+      "placeholder_password": "User Password",
+      "close_button": "Close",
+      "save_button": "Save User",
+      "error_general_message": "Something went wrong, please try again",
+      "error_email_repeated_message": "Email is already in use, please try another"
+    },
+    "modal_update": {
+      "title": "Update User",
+      "title_for_user": "User View",
+      "label_name": "Name",
+      "placeholder_name": "Name of the user",
+      "label_email": "Email",
+      "placeholder_email": "User Email",
+      "label_password": "Password",
+      "placeholder_password": "User Password",
+      "close_button": "Close",
+      "save_button": "Update User",
+      "password_check_button": "Do you want update your password?"
+    }
+  },
+  "navbar": {
+    "login_text": "Login",
+    "lenguages_text": "Lenguages",
+    "user_text": "Users",
+    "logout_text": "Logout"
+  },
+  "news": {
+    "card_button": "Check new"
+  },
+  "login": {
+    "label_email": "Email",
+    "placeholder_email": "User Email",
+    "label_password": "Password",
+    "placeholder_password": "User Password",
+    "error_message": "Login failed, please try again"
+  }
+}

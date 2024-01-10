@@ -1,0 +1,53 @@
+{
+  "users": {
+    "create_user_button_text": "Agregar usuario",
+    "table_column_name_text": "Nombre",
+    "table_column_email_text": "Correo Electronico",
+    "table_column_action_text": "Acción",
+    "table_action_update_button": "Actualizar",
+    "table_action_see_button": "Ver",
+    "table_action_delete_button": "Eliminar",
+    "modal_create": {
+      "title": "Crear Usuario",
+      "label_name": "Nombre",
+      "placeholder_name": "Nombre del usuario",
+      "label_email": "Correo Electronico",
+      "placeholder_email": "Correo del usuario",
+      "label_password": "Contraseña",
+      "placeholder_password": "Contraseña del usuario",
+      "close_button": "Cerrar",
+      "save_button": "Guardar Usuario",
+      "error_general_message": "Algo fue mal, por favor intente de nuevo",
+      "error_email_repeated_message": "Correo electronico en uso, intente con otro por favor"
+    },
+    "modal_update": {
+      "title": "Actualizar Usuario",
+      "title_for_user": "Vista del usuario",
+      "label_name": "Nombre",
+      "placeholder_name": "Nombre del usuario",
+      "label_email": "Correo Electronico",
+      "placeholder_email": "Correo del usuario",
+      "label_password": "Contraseña",
+      "placeholder_password": "Contraseña del usuario",
+      "close_button": "Cerrar",
+      "save_button": "Actualizar Usuario",
+      "password_check_button": "¿Quieres actualizar la contraseña?"
+    }
+  },
+  "navbar": {
+    "login_text": "Iniciar Sesión",
+    "logout_text": "Cerrar Sesión",
+    "lenguages_text": "Lenguajes",
+    "user_text": "Usuarios"
+  },
+  "news": {
+    "card_button": "Ver noticia"
+  },
+  "login": {
+    "label_email": "Correo Electronico",
+    "placeholder_email": "Correo del usuario",
+    "label_password": "Contraseña",
+    "placeholder_password": "Contraseña del usuario",
+    "error_message": "Inicio de sesión fallido, intente mas tarde"
+  }
+}
